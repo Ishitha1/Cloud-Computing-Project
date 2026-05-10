@@ -2,9 +2,6 @@
 
 A modern, responsive, and user-friendly ride-sharing web application built with a serverless architecture on AWS.
 
-![ShareX Banner](https://via.placeholder.com/800x300?text=ShareX+Ride+Sharing)  
-*(Replace with actual screenshot)*
-
 ## ✨ Features
 
 - ✅ User Registration & Login (Amazon Cognito)
